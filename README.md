@@ -17,7 +17,7 @@ $ python3 backend.py
 Code for retriving and pre-process data
 
 ### 4) analyze
-Code for big data analysis
+python2 analyze.py
 
-### 5) learn
-Code for training machine learning models
+### 5) learn (for tuning and visualization)
+python3 *.py
