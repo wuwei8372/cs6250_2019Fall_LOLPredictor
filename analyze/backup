@@ -1,0 +1,9 @@
+root
+ |-- gameId: long (nullable = true)
+ |-- participants: array (nullable = true)
+ |    |-- element: struct (containsNull = true)
+ |    |    |-- championId: long (nullable = true)
+ |    |    |-- stats: struct (nullable = true)
+ |    |    |    |-- win: boolean (nullable = true)
+ |    |    |-- teamId: long (nullable = true)
+

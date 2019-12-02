@@ -1,0 +1,1560 @@
+{
+    "1": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "LeeSin", 
+            "Kayn"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "10": {
+        "top_teammates": [
+            "MasterYi", 
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "51%"
+    }, 
+    "101": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Twitch"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "53%"
+    }, 
+    "102": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Jinx"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "53%"
+    }, 
+    "103": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "LeeSin", 
+            "Kayn"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "52%"
+    }, 
+    "104": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Janna", 
+            "Lucian"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "47%"
+    }, 
+    "105": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "LeeSin"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "49%"
+    }, 
+    "106": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "Lux"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "49%"
+    }, 
+    "107": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Jhin", 
+            "Lucian"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "48%"
+    }, 
+    "11": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Lucian", 
+            "Jinx"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "51%"
+    }, 
+    "110": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Janna", 
+            "Lux"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "111": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "Jhin", 
+            "Kayn"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "48%"
+    }, 
+    "112": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "LeeSin", 
+            "Vayne", 
+            "Kayn"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "47%"
+    }, 
+    "113": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Xayah"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "53%"
+    }, 
+    "114": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "115": {
+        "top_teammates": [
+            "Thresh", 
+            "Vayne", 
+            "Tristana", 
+            "Kayn", 
+            "Jinx"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "51%"
+    }, 
+    "117": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "KogMaw", 
+            "Jinx"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "50%"
+    }, 
+    "119": {
+        "top_teammates": [
+            "Thresh", 
+            "Janna", 
+            "LeeSin", 
+            "Kayn", 
+            "Yasuo"
+        ], 
+        "usage_rate": "10%", 
+        "win_rate": "50%"
+    }, 
+    "12": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Yasuo", 
+            "LeeSin"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "50%"
+    }, 
+    "120": {
+        "top_teammates": [
+            "Thresh", 
+            "Vayne", 
+            "Tristana", 
+            "Janna", 
+            "Xayah"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "51%"
+    }, 
+    "121": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Jhin", 
+            "Janna"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "49%"
+    }, 
+    "122": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Twitch"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "52%"
+    }, 
+    "126": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Xayah", 
+            "Janna"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "51%"
+    }, 
+    "127": {
+        "top_teammates": [
+            "Vayne", 
+            "Tristana", 
+            "Thresh", 
+            "Twitch", 
+            "Kayn"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "46%"
+    }, 
+    "13": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "LeeSin", 
+            "Vayne", 
+            "Kayn"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "41%"
+    }, 
+    "131": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "Lucian"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "51%"
+    }, 
+    "133": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Kayn", 
+            "Lux", 
+            "Jinx"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "50%"
+    }, 
+    "134": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "LeeSin", 
+            "Twitch", 
+            "Vayne"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "47%"
+    }, 
+    "136": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Kayn", 
+            "Vayne", 
+            "Janna"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "52%"
+    }, 
+    "14": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Thresh", 
+            "Lucian"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "50%"
+    }, 
+    "141": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jhin", 
+            "Janna"
+        ], 
+        "usage_rate": "19%", 
+        "win_rate": "49%"
+    }, 
+    "142": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "143": {
+        "top_teammates": [
+            "Jhin", 
+            "Tristana", 
+            "LeeSin", 
+            "Caitlyn", 
+            "Kayn"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "50%"
+    }, 
+    "145": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "15": {
+        "top_teammates": [
+            "Thresh", 
+            "Janna", 
+            "Kayn", 
+            "LeeSin", 
+            "Lulu"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "51%"
+    }, 
+    "150": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Kayn"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "50%"
+    }, 
+    "154": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Yasuo", 
+            "Janna"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "49%"
+    }, 
+    "157": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "LeeSin", 
+            "Kayn"
+        ], 
+        "usage_rate": "15%", 
+        "win_rate": "50%"
+    }, 
+    "16": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "53%"
+    }, 
+    "161": {
+        "top_teammates": [
+            "Tristana", 
+            "Kayn", 
+            "Vayne", 
+            "LeeSin", 
+            "Thresh"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "51%"
+    }, 
+    "163": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "47%"
+    }, 
+    "164": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Xayah"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "48%"
+    }, 
+    "17": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "Kayn"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "52%"
+    }, 
+    "18": {
+        "top_teammates": [
+            "Thresh", 
+            "Janna", 
+            "Kayn", 
+            "LeeSin", 
+            "Lulu"
+        ], 
+        "usage_rate": "25%", 
+        "win_rate": "52%"
+    }, 
+    "19": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Lux"
+        ], 
+        "usage_rate": "11%", 
+        "win_rate": "52%"
+    }, 
+    "2": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Jhin", 
+            "Vayne", 
+            "Janna"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "48%"
+    }, 
+    "20": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Lucian", 
+            "Rakan"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "50%"
+    }, 
+    "201": {
+        "top_teammates": [
+            "Lucian", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "51%"
+    }, 
+    "202": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Yasuo", 
+            "Blitzcrank"
+        ], 
+        "usage_rate": "16%", 
+        "win_rate": "49%"
+    }, 
+    "203": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Lux", 
+            "Janna"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "49%"
+    }, 
+    "21": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Yasuo", 
+            "Lux"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "53%"
+    }, 
+    "22": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Janna", 
+            "Yasuo"
+        ], 
+        "usage_rate": "10%", 
+        "win_rate": "48%"
+    }, 
+    "222": {
+        "top_teammates": [
+            "Thresh", 
+            "Janna", 
+            "Kayn", 
+            "LeeSin", 
+            "Yasuo"
+        ], 
+        "usage_rate": "16%", 
+        "win_rate": "51%"
+    }, 
+    "223": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Jhin", 
+            "Twitch"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "46%"
+    }, 
+    "23": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "Lux"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "53%"
+    }, 
+    "235": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "236": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Janna", 
+            "Blitzcrank"
+        ], 
+        "usage_rate": "16%", 
+        "win_rate": "47%"
+    }, 
+    "238": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Jhin", 
+            "Twitch"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "49%"
+    }, 
+    "24": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Janna", 
+            "Twitch"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "51%"
+    }, 
+    "240": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "LeeSin"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "51%"
+    }, 
+    "245": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "LeeSin", 
+            "Kayn"
+        ], 
+        "usage_rate": "9%", 
+        "win_rate": "50%"
+    }, 
+    "246": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "25": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin", 
+            "Caitlyn"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "48%"
+    }, 
+    "254": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Lucian"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "26": {
+        "top_teammates": [
+            "Tristana", 
+            "Kayn", 
+            "Vayne", 
+            "LeeSin", 
+            "Twitch"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "49%"
+    }, 
+    "266": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Jinx", 
+            "Xayah"
+        ], 
+        "usage_rate": "1%", 
+        "win_rate": "47%"
+    }, 
+    "267": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "LeeSin", 
+            "Kayn", 
+            "Twitch"
+        ], 
+        "usage_rate": "9%", 
+        "win_rate": "52%"
+    }, 
+    "268": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Kayn", 
+            "Vayne", 
+            "LeeSin"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "43%"
+    }, 
+    "27": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Kayn", 
+            "Vayne", 
+            "Twitch"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "54%"
+    }, 
+    "28": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Jhin", 
+            "Janna", 
+            "Zed"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "48%"
+    }, 
+    "29": {
+        "top_teammates": [
+            "Thresh", 
+            "Janna", 
+            "Lulu", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "17%", 
+        "win_rate": "53%"
+    }, 
+    "3": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "Jinx"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "47%"
+    }, 
+    "30": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "Kayn"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "51%"
+    }, 
+    "31": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "Janna"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "53%"
+    }, 
+    "32": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jinx", 
+            "Janna"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "51%"
+    }, 
+    "33": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Jinx"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "54%"
+    }, 
+    "34": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "54%"
+    }, 
+    "35": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Jinx", 
+            "Janna"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "49%"
+    }, 
+    "350": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "36": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "Lux"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "50%"
+    }, 
+    "37": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin", 
+            "Twitch"
+        ], 
+        "usage_rate": "11%", 
+        "win_rate": "54%"
+    }, 
+    "38": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "49%"
+    }, 
+    "39": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "LeeSin", 
+            "Jhin"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "51%"
+    }, 
+    "4": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "52%"
+    }, 
+    "40": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "17%", 
+        "win_rate": "56%"
+    }, 
+    "41": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "LeeSin", 
+            "Janna"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "49%"
+    }, 
+    "412": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin", 
+            "Jhin"
+        ], 
+        "usage_rate": "25%", 
+        "win_rate": "47%"
+    }, 
+    "42": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "Tristana", 
+            "LeeSin", 
+            "Janna"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "46%"
+    }, 
+    "420": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Lux"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "49%"
+    }, 
+    "421": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Janna", 
+            "Xayah", 
+            "Lucian"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "49%"
+    }, 
+    "427": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "Jinx"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "47%"
+    }, 
+    "429": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Rakan", 
+            "Yasuo"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "48%"
+    }, 
+    "43": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "Kayn", 
+            "Lucian"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "45%"
+    }, 
+    "432": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Jhin", 
+            "Lucian"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "48%"
+    }, 
+    "44": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "Twitch", 
+            "Jhin"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "53%"
+    }, 
+    "45": {
+        "top_teammates": [
+            "Tristana", 
+            "Kayn", 
+            "Vayne", 
+            "Thresh", 
+            "LeeSin"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "49%"
+    }, 
+    "48": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Jhin", 
+            "Janna"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "48%"
+    }, 
+    "497": {
+        "top_teammates": [
+            "Xayah", 
+            "Kayn", 
+            "Tristana", 
+            "LeeSin", 
+            "Yasuo"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "50%"
+    }, 
+    "498": {
+        "top_teammates": [
+            "Rakan", 
+            "Kayn", 
+            "Thresh", 
+            "LeeSin", 
+            "Yasuo"
+        ], 
+        "usage_rate": "15%", 
+        "win_rate": "50%"
+    }, 
+    "5": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Lux", 
+            "Lucian"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "52%"
+    }, 
+    "50": {
+        "top_teammates": [
+            "Thresh", 
+            "Vayne", 
+            "Tristana", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "53%"
+    }, 
+    "51": {
+        "top_teammates": [
+            "Thresh", 
+            "LeeSin", 
+            "Janna", 
+            "Kayn", 
+            "Yasuo"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "47%"
+    }, 
+    "516": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Thresh", 
+            "Xayah", 
+            "Kayn"
+        ], 
+        "usage_rate": "9%", 
+        "win_rate": "41%"
+    }, 
+    "517": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "518": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "53": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin", 
+            "Jhin"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "51%"
+    }, 
+    "54": {
+        "top_teammates": [
+            "Tristana", 
+            "Yasuo", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "50%"
+    }, 
+    "55": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "50%"
+    }, 
+    "555": {
+        "top_teammates": [], 
+        "usage_rate": "0%", 
+        "win_rate": "0%"
+    }, 
+    "56": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Jhin", 
+            "Vayne", 
+            "Jinx"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "52%"
+    }, 
+    "57": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Twitch"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "52%"
+    }, 
+    "58": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Twitch", 
+            "Janna"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "50%"
+    }, 
+    "59": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Xayah"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "52%"
+    }, 
+    "6": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Kayn", 
+            "Vayne", 
+            "Jinx"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "48%"
+    }, 
+    "60": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Zed", 
+            "Lucian"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "49%"
+    }, 
+    "61": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "LeeSin", 
+            "Janna"
+        ], 
+        "usage_rate": "13%", 
+        "win_rate": "50%"
+    }, 
+    "62": {
+        "top_teammates": [
+            "Thresh", 
+            "Vayne", 
+            "Tristana", 
+            "Janna", 
+            "Twitch"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "52%"
+    }, 
+    "63": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Jhin", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "51%"
+    }, 
+    "64": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Lucian", 
+            "Janna"
+        ], 
+        "usage_rate": "18%", 
+        "win_rate": "46%"
+    }, 
+    "67": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "Janna", 
+            "LeeSin", 
+            "Yasuo"
+        ], 
+        "usage_rate": "21%", 
+        "win_rate": "52%"
+    }, 
+    "68": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Zed", 
+            "Lucian", 
+            "Vayne"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "49%"
+    }, 
+    "69": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Janna", 
+            "Kayn"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "49%"
+    }, 
+    "7": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "47%"
+    }, 
+    "72": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Jhin", 
+            "Jinx"
+        ], 
+        "usage_rate": "1%", 
+        "win_rate": "49%"
+    }, 
+    "74": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "Kayn"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "48%"
+    }, 
+    "75": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "LeeSin", 
+            "Twitch"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "51%"
+    }, 
+    "76": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Lucian", 
+            "Vayne", 
+            "Jhin"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "46%"
+    }, 
+    "77": {
+        "top_teammates": [
+            "Thresh", 
+            "Vayne", 
+            "Tristana", 
+            "Lucian", 
+            "Jinx"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "50%"
+    }, 
+    "78": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "Jhin"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "45%"
+    }, 
+    "79": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Lucian"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "49%"
+    }, 
+    "8": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Kayn", 
+            "Janna", 
+            "Twitch"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "49%"
+    }, 
+    "80": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Janna", 
+            "Twitch"
+        ], 
+        "usage_rate": "5%", 
+        "win_rate": "51%"
+    }, 
+    "81": {
+        "top_teammates": [
+            "Thresh", 
+            "Kayn", 
+            "LeeSin", 
+            "Yasuo", 
+            "Janna"
+        ], 
+        "usage_rate": "10%", 
+        "win_rate": "47%"
+    }, 
+    "82": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Jhin", 
+            "Blitzcrank", 
+            "Lucian"
+        ], 
+        "usage_rate": "2%", 
+        "win_rate": "51%"
+    }, 
+    "83": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Kayn", 
+            "Janna"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "54%"
+    }, 
+    "84": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "85": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "LeeSin", 
+            "Vayne", 
+            "Janna"
+        ], 
+        "usage_rate": "4%", 
+        "win_rate": "48%"
+    }, 
+    "86": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Kayn", 
+            "Lux"
+        ], 
+        "usage_rate": "8%", 
+        "win_rate": "53%"
+    }, 
+    "89": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Kayn", 
+            "MissFortune", 
+            "Jinx"
+        ], 
+        "usage_rate": "10%", 
+        "win_rate": "51%"
+    }, 
+    "9": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Thresh", 
+            "Lucian", 
+            "Zed"
+        ], 
+        "usage_rate": "3%", 
+        "win_rate": "50%"
+    }, 
+    "90": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "7%", 
+        "win_rate": "53%"
+    }, 
+    "91": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Janna", 
+            "Jinx"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "92": {
+        "top_teammates": [
+            "Thresh", 
+            "Tristana", 
+            "Vayne", 
+            "Janna", 
+            "Twitch"
+        ], 
+        "usage_rate": "12%", 
+        "win_rate": "50%"
+    }, 
+    "96": {
+        "top_teammates": [
+            "Lulu", 
+            "Janna", 
+            "Kayn", 
+            "LeeSin", 
+            "Thresh"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "50%"
+    }, 
+    "98": {
+        "top_teammates": [
+            "Tristana", 
+            "Thresh", 
+            "Vayne", 
+            "Twitch", 
+            "Lucian"
+        ], 
+        "usage_rate": "6%", 
+        "win_rate": "49%"
+    }, 
+    "99": {
+        "top_teammates": [
+            "Tristana", 
+            "Vayne", 
+            "Thresh", 
+            "Kayn", 
+            "LeeSin"
+        ], 
+        "usage_rate": "14%", 
+        "win_rate": "49%"
+    }
+}

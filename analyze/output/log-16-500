@@ -1,0 +1,319 @@
+root
+ |-- gameCreation: long (nullable = true)
+ |-- gameDuration: long (nullable = true)
+ |-- gameId: long (nullable = true)
+ |-- gameMode: string (nullable = true)
+ |-- gameType: string (nullable = true)
+ |-- gameVersion: string (nullable = true)
+ |-- mapId: long (nullable = true)
+ |-- participantIdentities: array (nullable = true)
+ |    |-- element: struct (containsNull = true)
+ |    |    |-- participantId: long (nullable = true)
+ |    |    |-- player: struct (nullable = true)
+ |    |    |    |-- accountId: string (nullable = true)
+ |    |    |    |-- currentAccountId: string (nullable = true)
+ |    |    |    |-- currentPlatformId: string (nullable = true)
+ |    |    |    |-- matchHistoryUri: string (nullable = true)
+ |    |    |    |-- platformId: string (nullable = true)
+ |    |    |    |-- profileIcon: long (nullable = true)
+ |    |    |    |-- summonerId: string (nullable = true)
+ |    |    |    |-- summonerName: string (nullable = true)
+ |-- participants: array (nullable = true)
+ |    |-- element: struct (containsNull = true)
+ |    |    |-- championId: long (nullable = true)
+ |    |    |-- highestAchievedSeasonTier: string (nullable = true)
+ |    |    |-- masteries: array (nullable = true)
+ |    |    |    |-- element: struct (containsNull = true)
+ |    |    |    |    |-- masteryId: long (nullable = true)
+ |    |    |    |    |-- rank: long (nullable = true)
+ |    |    |-- participantId: long (nullable = true)
+ |    |    |-- runes: array (nullable = true)
+ |    |    |    |-- element: struct (containsNull = true)
+ |    |    |    |    |-- rank: long (nullable = true)
+ |    |    |    |    |-- runeId: long (nullable = true)
+ |    |    |-- spell1Id: long (nullable = true)
+ |    |    |-- spell2Id: long (nullable = true)
+ |    |    |-- stats: struct (nullable = true)
+ |    |    |    |-- assists: long (nullable = true)
+ |    |    |    |-- champLevel: long (nullable = true)
+ |    |    |    |-- combatPlayerScore: long (nullable = true)
+ |    |    |    |-- damageDealtToObjectives: long (nullable = true)
+ |    |    |    |-- damageDealtToTurrets: long (nullable = true)
+ |    |    |    |-- damageSelfMitigated: long (nullable = true)
+ |    |    |    |-- deaths: long (nullable = true)
+ |    |    |    |-- doubleKills: long (nullable = true)
+ |    |    |    |-- firstBloodAssist: boolean (nullable = true)
+ |    |    |    |-- firstBloodKill: boolean (nullable = true)
+ |    |    |    |-- firstInhibitorAssist: boolean (nullable = true)
+ |    |    |    |-- firstInhibitorKill: boolean (nullable = true)
+ |    |    |    |-- firstTowerAssist: boolean (nullable = true)
+ |    |    |    |-- firstTowerKill: boolean (nullable = true)
+ |    |    |    |-- goldEarned: long (nullable = true)
+ |    |    |    |-- goldSpent: long (nullable = true)
+ |    |    |    |-- inhibitorKills: long (nullable = true)
+ |    |    |    |-- item0: long (nullable = true)
+ |    |    |    |-- item1: long (nullable = true)
+ |    |    |    |-- item2: long (nullable = true)
+ |    |    |    |-- item3: long (nullable = true)
+ |    |    |    |-- item4: long (nullable = true)
+ |    |    |    |-- item5: long (nullable = true)
+ |    |    |    |-- item6: long (nullable = true)
+ |    |    |    |-- killingSprees: long (nullable = true)
+ |    |    |    |-- kills: long (nullable = true)
+ |    |    |    |-- largestCriticalStrike: long (nullable = true)
+ |    |    |    |-- largestKillingSpree: long (nullable = true)
+ |    |    |    |-- largestMultiKill: long (nullable = true)
+ |    |    |    |-- longestTimeSpentLiving: long (nullable = true)
+ |    |    |    |-- magicDamageDealt: long (nullable = true)
+ |    |    |    |-- magicDamageDealtToChampions: long (nullable = true)
+ |    |    |    |-- magicalDamageTaken: long (nullable = true)
+ |    |    |    |-- neutralMinionsKilled: long (nullable = true)
+ |    |    |    |-- neutralMinionsKilledEnemyJungle: long (nullable = true)
+ |    |    |    |-- neutralMinionsKilledTeamJungle: long (nullable = true)
+ |    |    |    |-- objectivePlayerScore: long (nullable = true)
+ |    |    |    |-- participantId: long (nullable = true)
+ |    |    |    |-- pentaKills: long (nullable = true)
+ |    |    |    |-- physicalDamageDealt: long (nullable = true)
+ |    |    |    |-- physicalDamageDealtToChampions: long (nullable = true)
+ |    |    |    |-- physicalDamageTaken: long (nullable = true)
+ |    |    |    |-- playerScore0: long (nullable = true)
+ |    |    |    |-- playerScore1: long (nullable = true)
+ |    |    |    |-- playerScore2: long (nullable = true)
+ |    |    |    |-- playerScore3: long (nullable = true)
+ |    |    |    |-- playerScore4: long (nullable = true)
+ |    |    |    |-- playerScore5: long (nullable = true)
+ |    |    |    |-- playerScore6: long (nullable = true)
+ |    |    |    |-- playerScore7: long (nullable = true)
+ |    |    |    |-- playerScore8: long (nullable = true)
+ |    |    |    |-- playerScore9: long (nullable = true)
+ |    |    |    |-- quadraKills: long (nullable = true)
+ |    |    |    |-- sightWardsBoughtInGame: long (nullable = true)
+ |    |    |    |-- timeCCingOthers: long (nullable = true)
+ |    |    |    |-- totalDamageDealt: long (nullable = true)
+ |    |    |    |-- totalDamageDealtToChampions: long (nullable = true)
+ |    |    |    |-- totalDamageTaken: long (nullable = true)
+ |    |    |    |-- totalHeal: long (nullable = true)
+ |    |    |    |-- totalMinionsKilled: long (nullable = true)
+ |    |    |    |-- totalPlayerScore: long (nullable = true)
+ |    |    |    |-- totalScoreRank: long (nullable = true)
+ |    |    |    |-- totalTimeCrowdControlDealt: long (nullable = true)
+ |    |    |    |-- totalUnitsHealed: long (nullable = true)
+ |    |    |    |-- tripleKills: long (nullable = true)
+ |    |    |    |-- trueDamageDealt: long (nullable = true)
+ |    |    |    |-- trueDamageDealtToChampions: long (nullable = true)
+ |    |    |    |-- trueDamageTaken: long (nullable = true)
+ |    |    |    |-- turretKills: long (nullable = true)
+ |    |    |    |-- unrealKills: long (nullable = true)
+ |    |    |    |-- visionScore: long (nullable = true)
+ |    |    |    |-- visionWardsBoughtInGame: long (nullable = true)
+ |    |    |    |-- wardsKilled: long (nullable = true)
+ |    |    |    |-- wardsPlaced: long (nullable = true)
+ |    |    |    |-- win: boolean (nullable = true)
+ |    |    |-- teamId: long (nullable = true)
+ |    |    |-- timeline: struct (nullable = true)
+ |    |    |    |-- creepsPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |    |    |    |-- csDiffPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |    |    |    |-- damageTakenDiffPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |    |    |    |-- damageTakenPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |    |    |    |-- goldPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |    |    |    |-- lane: string (nullable = true)
+ |    |    |    |-- participantId: long (nullable = true)
+ |    |    |    |-- role: string (nullable = true)
+ |    |    |    |-- xpDiffPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |    |    |    |-- xpPerMinDeltas: struct (nullable = true)
+ |    |    |    |    |-- 0-10: double (nullable = true)
+ |    |    |    |    |-- 10-20: double (nullable = true)
+ |    |    |    |    |-- 20-30: double (nullable = true)
+ |    |    |    |    |-- 30-end: double (nullable = true)
+ |-- platformId: string (nullable = true)
+ |-- queueId: long (nullable = true)
+ |-- seasonId: long (nullable = true)
+ |-- teams: array (nullable = true)
+ |    |-- element: struct (containsNull = true)
+ |    |    |-- bans: array (nullable = true)
+ |    |    |    |-- element: struct (containsNull = true)
+ |    |    |    |    |-- championId: long (nullable = true)
+ |    |    |    |    |-- pickTurn: long (nullable = true)
+ |    |    |-- baronKills: long (nullable = true)
+ |    |    |-- dominionVictoryScore: long (nullable = true)
+ |    |    |-- dragonKills: long (nullable = true)
+ |    |    |-- firstBaron: boolean (nullable = true)
+ |    |    |-- firstBlood: boolean (nullable = true)
+ |    |    |-- firstDragon: boolean (nullable = true)
+ |    |    |-- firstInhibitor: boolean (nullable = true)
+ |    |    |-- firstRiftHerald: boolean (nullable = true)
+ |    |    |-- firstTower: boolean (nullable = true)
+ |    |    |-- inhibitorKills: long (nullable = true)
+ |    |    |-- riftHeraldKills: long (nullable = true)
+ |    |    |-- teamId: long (nullable = true)
+ |    |    |-- towerKills: long (nullable = true)
+ |    |    |-- vilemawKills: long (nullable = true)
+ |    |    |-- win: string (nullable = true)
+
+51108
+511080
++----------+-----+--------------------+
+|championId|count|          usage_rate|
++----------+-----+--------------------+
+|        29| 8770| 0.17159740158096579|
+|       222| 7926| 0.15508335289974173|
+|        19| 5821| 0.11389606323863191|
+|        22| 5358| 0.10483681615402676|
+|         7| 2224| 0.04351569225952884|
+|        77| 1105|0.021620881271033888|
+|        34| 2241| 0.04384832120216013|
+|       202| 7970| 0.15594427486890505|
+|       421| 1425|0.027882131955858182|
+|       110| 2866| 0.05607732644595758|
+|        43| 3118| 0.06100806136025671|
+|       420| 1478|0.028919151600532208|
+|        84| 2925| 0.05723174454097206|
+|        31| 4150| 0.08120059481881506|
+|       516| 4710| 0.09215778351725758|
+|       119| 5057| 0.09894732722861392|
+|       268| 1270|0.024849338655396416|
+|       161| 3151| 0.06165375283712922|
+|        68| 1567|0.030660561947248963|
+|        72|  567|0.011094153557173045|
++----------+-----+--------------------+
+only showing top 20 rows
+
+138
++----------+-----+---------+-------------------+
+|championId|count|win_count|           win_rate|
++----------+-----+---------+-------------------+
+|        29| 8770|     4628| 0.5277080957810718|
+|       222| 7926|     4056| 0.5117335352006056|
+|        19| 5821|     3004| 0.5160625322109603|
+|        22| 5358|     2556|0.47704367301231804|
+|         7| 2224|     1047|0.47077338129496404|
+|        77| 1105|      550|  0.497737556561086|
+|        34| 2241|     1204|  0.537260151717983|
+|       202| 7970|     3889|0.48795483061480555|
+|       421| 1425|      694| 0.4870175438596491|
+|       110| 2866|     1431|0.49930216329378924|
+|        43| 3118|     1409|0.45189223861449646|
+|       420| 1478|      720| 0.4871447902571042|
+|        84| 2925|     1466| 0.5011965811965812|
+|        31| 4150|     2181| 0.5255421686746988|
+|       516| 4710|     1934|0.41061571125265395|
+|       119| 5057|     2538| 0.5018785841407949|
+|       268| 1270|      551| 0.4338582677165354|
+|       161| 3151|     1603| 0.5087273881307521|
+|        68| 1567|      771| 0.4920229738353542|
+|        72|  567|      279|0.49206349206349204|
++----------+-----+---------+-------------------+
+only showing top 20 rows
+
+138
++----------+------+--------------------+
+|    gameId|teamId|                team|
++----------+------+--------------------+
+|3220822726|   200|[106, 89, 45, 59,...|
+|3222211690|   100|[30, 35, 267, 67,...|
+|3227084813|   200|[41, 35, 96, 114,...|
+|3229042489|   200|[29, 43, 26, 24, 64]|
+|3230568102|   200|[29, 134, 64, 85,...|
+|3234615148|   200|[154, 157, 119, 3...|
+|3236096588|   200|[5, 25, 157, 99, 51]|
+|3239742131|   200|[4, 498, 11, 412,...|
+|3245907648|   100|[51, 37, 104, 31,...|
+|3248448843|   100|[8, 254, 498, 42,...|
+|3249930712|   100|[92, 154, 8, 51, 16]|
+|3251837677|   100|[20, 201, 22, 238...|
+|3253450904|   200|[30, 40, 126, 222...|
+|3255538509|   200|[223, 67, 122, 14...|
+|3256498332|   200|[64, 412, 134, 49...|
+|3256783016|   100|[236, 64, 267, 34...|
+|3256791702|   200|[104, 38, 11, 82,...|
+|3257129778|   100|[86, 28, 412, 22,...|
+|3257354996|   200|[19, 45, 63, 16, 78]|
+|3258952935|   200|[254, 89, 61, 22,...|
++----------+------+--------------------+
+only showing top 20 rows
+
++----------+----------+
+|championId|teammateId|
++----------+----------+
+|       106|        89|
+|       106|        45|
+|       106|        59|
+|       106|       150|
+|        89|       106|
+|        89|        45|
+|        89|        59|
+|        89|       150|
+|        45|       106|
+|        45|        89|
+|        45|        59|
+|        45|       150|
+|        59|       106|
+|        59|        89|
+|        59|        45|
+|        59|       150|
+|       150|       106|
+|       150|        89|
+|       150|        45|
+|       150|        59|
++----------+----------+
+only showing top 20 rows
+
+2044320
++----------+--------------------+
+|championId|       top_teammates|
++----------+--------------------+
+|        32|[18, 412, 67, 222...|
+|        80|[412, 18, 67, 40,...|
+|        48|[18, 412, 67, 202...|
+|        64|[412, 18, 67, 236...|
+|        96|[117, 40, 141, 64...|
+|       240|[18, 412, 67, 29,...|
+|       112|[18, 412, 64, 67,...|
+|        16|[18, 67, 29, 141,...|
+|       432|[18, 67, 141, 202...|
+|         1|[18, 412, 67, 64,...|
+|        17|[18, 412, 67, 222...|
+|        33|[18, 412, 67, 40,...|
+|        81|[412, 141, 64, 15...|
+|       161|[18, 141, 67, 64,...|
+|       113|[18, 412, 67, 40,...|
+|       497|[498, 141, 18, 64...|
+|        98|[18, 412, 67, 29,...|
+|        34|[412, 18, 67, 141...|
+|        82|[412, 18, 202, 53...|
+|       114|[412, 18, 67, 141...|
++----------+--------------------+
+only showing top 20 rows
+
+138
+root
+ |-- championId: long (nullable = true)
+ |-- usage_rate: double (nullable = true)
+ |-- win_rate: double (nullable = true)
+ |-- top_teammates: array (nullable = true)
+ |    |-- element: long (containsNull = true)
+

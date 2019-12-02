@@ -1,0 +1,21 @@
+div {
+  color: white;
+}
+.text {
+  color:white;
+}
+.App {
+  display: grid;
+  grid-template-rows: 1fr 3fr;
+}
+.Predicter {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+h1 {
+  color: brown;
+}
+
+
+

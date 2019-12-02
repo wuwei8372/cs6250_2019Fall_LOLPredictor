@@ -1,0 +1,10 @@
+.img-responsive {
+    margin: 3px;
+}
+div.square {
+    border: solid 5px yellow;
+    width: 30px;
+    height: 20px;
+    float: left
+}
+

@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "/Users/wentingt/Desktop/dota/analyze/./analyze.py", line 6, in <module>
+    sc = SparkSession.builder.appName("Spark").getOrCreate()
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/sql/session.py", line 173, in getOrCreate
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/context.py", line 367, in getOrCreate
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/context.py", line 136, in __init__
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/context.py", line 198, in _do_init
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/context.py", line 306, in _initialize_context
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1525, in __call__
+  File "/usr/local/lib/python2.7/site-packages/pyspark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+py4j.protocol.Py4JJavaError: An error occurred while calling None.org.apache.spark.api.java.JavaSparkContext.
+: java.lang.AssertionError: assertion failed: Expected hostname (not IP) but got fe80:0:0:0:d4b0:7fff:fe74:c0ae%7
+	at scala.Predef$.assert(Predef.scala:170)
+	at org.apache.spark.util.Utils$.checkHost(Utils.scala:1014)
+	at org.apache.spark.util.RpcUtils$.makeDriverRef(RpcUtils.scala:31)
+	at org.apache.spark.executor.Executor.<init>(Executor.scala:184)
+	at org.apache.spark.scheduler.local.LocalEndpoint.<init>(LocalSchedulerBackend.scala:59)
+	at org.apache.spark.scheduler.local.LocalSchedulerBackend.start(LocalSchedulerBackend.scala:127)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.start(TaskSchedulerImpl.scala:183)
+	at org.apache.spark.SparkContext.<init>(SparkContext.scala:501)
+	at org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:238)
+	at py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+	at py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
