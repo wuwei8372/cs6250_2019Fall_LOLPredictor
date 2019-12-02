@@ -19,5 +19,5 @@ Code for retriving and pre-process data
 ### 4) analyze
 Code for big data analysis
 
-### 4) learn
+### 5) learn
 Code for training machine learning models
